@@ -1,8 +1,8 @@
 # Users API - Monitoreo y Observabilidad
 
-**Nombre:** [Tu nombre completo]  
-**Código:** [Tu código de estudiante]  
-**Video:** [URL del video]
+**Nombre:** Carlos Andres Losada Diaz 
+**Código:** 202221004601
+**Video:** https://youtu.be/qGjK_6lfGqk
 
 ## Descripción
 
@@ -36,6 +36,7 @@ tu-proyecto/
 
 - Docker y Docker Compose
 - Python 3 (para el script de tráfico)
+- node js
 
 
 ## Instrucciones de uso
@@ -43,8 +44,8 @@ tu-proyecto/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone [URL del repositorio]
-cd tu-proyecto
+git clone https://github.com/gemuChudoku/monitoreo-app
+cd multi-api
 ```
 
 ### 2. Levantar el stack
